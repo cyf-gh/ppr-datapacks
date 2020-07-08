@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "www",
+        "www",
+        "www"
+    ],
+    "key": {
+        "w":{
+            "item":"minecraft:white_carpet"
+        }
+    },
+    "result": {
+        "item": "minecraft:white_wool",
+        "count": 6
+    }
+}
